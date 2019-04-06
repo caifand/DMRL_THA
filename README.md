@@ -7,4 +7,4 @@ This repository is dedicated to all the class assignments completed in the cours
 
 2. [THA2](THA2/) contains a tentative proposal for the final project. The proposal is still in continuous evolution.
 
-3.[THA3](THA3/) contains three files: an input .csv data file, a data dictionary file (in .csv format), and an output word document.
+3. [THA3](THA3/) contains three files: an input .csv data file, a data dictionary file (in .csv format), and an output word document.
