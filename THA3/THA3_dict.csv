@@ -1,0 +1,15 @@
+﻿variable,data_type,source,description
+journal_title,string,doaj,Title of the journal
+publisher,string,doaj,Publisher of the journal
+society_institution,string,doaj,The society/institution the journal belongs to
+publisher_country,string,doaj,Country of the publisher. All from USA.
+article_processing_charge,boolean,doaj,Whether the publisher charges article processing fee for each publication
+fist_oa_year,number,doaj,The first year when the journal becomes open access
+language,string,doaj,Full text language of the journal
+review_process,string,doaj,The review process that the journal takes
+total_cites,number,jcr2017,The 2-year total citation count of the journal in 2016-2017
+jif,number,jcr2017,The 2-year impact factor of the journal in 2016-2017
+,,,
+Note: ,,,
+doaj: Directory of Open Access Journals,,,
+jcr2017: Journal Citation Report 2017 (from Web of Science),,,
