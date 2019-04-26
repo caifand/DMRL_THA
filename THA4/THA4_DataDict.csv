@@ -1,0 +1,4 @@
+variable,data_type,data_source,description
+year,integer,"Directory of Open Access Repositories(OpenDOAR), Directory of Open Access Journals(DOAJ)",The first year the repository/journal becomes open access
+repository,float,Directory of Open Access Repositories(OpenDOAR),Calculated by 1) counting the newly created open access repositories every year; 2) counting the cummulative sum of the existing open access repositories each year
+journal,float,Directory of Open Access Journals,Calculated by 1) counting the journals that start to offer open access content online every year; 2) counting the cummulative sum of the existing open access journals each year
