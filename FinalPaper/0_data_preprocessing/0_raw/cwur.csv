@@ -1,4 +1,4 @@
-World Rank,Institution,Location,National Rank,Quality of Education,Alumni Employment,Quality of Faculty,Research Output,Quality  Publications,Influence,Citations,Score
+ï»¿World Rank,Institution,Location,National Rank,QualityÂ of Education,Alumni Employment,QualityÂ of Faculty,Research Output,Quality  Publications,Influence,Citations,Score
 1,Harvard University,USA,1,2,1,1,1,1,1,1,100
 2,Stanford University,USA,2,10,3,2,10,4,3,2,96.7
 3,Massachusetts Institute of Technology,USA,3,3,11,3,30,15,2,6,95.1
@@ -71,7 +71,7 @@ World Rank,Institution,Location,National Rank,Quality of Education,Alumni Employ
 180,University of Georgia,USA,70,204,337,216,193,190,165,275,78.9
 182,University of Massachusetts Medical School,USA,71,-,> 1000,91,505,326,92,200,78.8
 184,University of Massachusetts Amherst,USA,72,297,253,198,289,226,212,121,78.8
-190,University of Missouri–Columbia,USA,73,490,190,115,265,244,261,222,78.6
+190,University of Missouriâ€“Columbia,USA,73,490,190,115,265,244,261,222,78.6
 191,University of Alabama at Birmingham,USA,74,-,> 1000,-,198,152,126,139,78.6
 193,University of Connecticut,USA,75,573,417,141,210,191,211,254,78.5
 194,University of Texas Health Science Center at Houston,USA,76,-,> 1000,194,298,238,143,187,78.5
@@ -105,7 +105,7 @@ World Rank,Institution,Location,National Rank,Quality of Education,Alumni Employ
 304,University of Texas at Dallas,USA,104,412,493,185,521,401,383,222,76.3
 306,University of Hawaii at Manoa,USA,105,-,> 1000,100,574,447,245,541,76.3
 308,George Washington University,USA,106,413,169,-,352,295,234,405,76.3
-313,University of Nebraska–Lincoln,USA,107,360,386,-,325,298,309,275,76.2
+313,University of Nebraskaâ€“Lincoln,USA,107,360,386,-,325,298,309,275,76.2
 316,University of Texas Health Science Center at San Antonio,USA,108,-,> 1000,-,489,358,240,167,76.1
 322,George Mason University,USA,109,-,> 1000,85,560,487,357,460,76
 330,Thomas Jefferson University,USA,110,274,> 1000,-,461,368,331,151,75.9
