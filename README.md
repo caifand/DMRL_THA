@@ -13,4 +13,4 @@ This repository is dedicated to all the class assignments completed in the cours
 
 5. [FinalPaper](FinalPaper/) contains all the input, intermediate, and output files for the final project. Here is the detailed file list, with nested bullet points indicating the tree structure of the files:  
    - [data](FinalPaper/data/) includes all the input, preprocessed, and output data tables.
-    - [data/raw](FinalPaper/data/raw): all the original data directly downloaded from online sources.
+      - [data/raw](FinalPaper/data/raw): all the original data directly downloaded from online sources.
