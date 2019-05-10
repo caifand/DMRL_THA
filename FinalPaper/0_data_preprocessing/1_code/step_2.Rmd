@@ -1,0 +1,28 @@
+---
+title: "step2"
+author: "Caifan Du"
+date: "May 9, 2019"
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(here)
+
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r read_csv}
+data <- read_csv(here("FinalPaper/0_data_preprocessing/2_output", "repo_p.csv"))
+```
+
+```{r descriptive statistics}
+summary(data)
+```
+```{r multiple regression}
+reg <- lm(citation~repo_age+policy_year, data)
+summary(reg)
+```
+```{r}
+reg <- lm(citation~repo_age, data)
+summary(reg)
+```
