@@ -1,0 +1,53 @@
+---
+title: "Regression Analysis"
+author: "Caifan Du"
+date: "May 9, 2019"
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(here)
+
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r read_csv}
+data <- read_csv(here("FinalPaper/0_data_preprocessing/2_output", "repo_p.csv"))
+```
+
+```{r descriptive statistics}
+summary(data)
+```
+```{r multiple regression}
+reg <- lm(citation~repo_age+policy_year, data)
+summary(reg)
+```
+```{r}
+reg1 <- lm(citation~repo_age, data)
+summary(reg1)
+```
+```{r}
+reg2 <- lm(citation~policy_year, data = data)
+summary(reg2)
+```
+
+```{r}
+vd <- read_csv(here("FinalPaper/0_data_preprocessing/2_output", "citation_rp.csv"))
+summary(vd)
+```
+
+```{r}
+reg_v <- lm(citation~repo_age+policy_year, data=vd)
+summary(reg_v)
+```
+
+```{r}
+reg_v1 <- lm(citation~repo_age, data=vd)
+summary(reg_v1)
+```
+
+```{r}
+reg_v2 <- lm(citation~policy_year, data=vd)
+summary(reg_v2)
+```
+

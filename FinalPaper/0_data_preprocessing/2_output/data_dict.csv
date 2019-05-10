@@ -1,0 +1,5 @@
+variable_name,data_type,description,source
+institution,string,name of high education institution,Directory of Open Access Repositories (DOAR); The Registry of Open Access Repositories Mandates and Policies (ROARMAP); Webometrics by the Cybermetrics Lab
+citation,integer,indicator of the citation impact of high education institutions,Webometrics by the Cybermetrics Lab
+repo_age,float,the amount of years since the OA repository was established,Calculated by the year_established in Directory of Open Access Repositories (DOAR)
+policy_year,float,the amount of years since the institution's open access policy became effective,Calculated by the policy_effective in The registry of Open Access Repositories Mandates and Policies (ROARMAP)
