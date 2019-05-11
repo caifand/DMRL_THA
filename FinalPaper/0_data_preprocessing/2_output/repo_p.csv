@@ -1,22 +1,21 @@
 institution,citation,repo_age,policy_year
-Boston University,26,13.0,4.0
-California Institute of Technology,31,13.0,5.0
-Cornell University,40,13.0,14.0
-Duke University,14,11.0,9.0
-Emory University,63,3.0,8.0
-Florida State University,139,11.0,3.0
-Georgia Institute of Technology,222,13.0,6.0
-Massachusetts Institute of Technology,6,13.0,10.0
-Northern Illinois University,327,7.0,5.0
-Oregon State University,187,15.0,6.0
-Princeton University,27,4.0,8.0
-Rice University,108,20.0,7.0
-University of Colorado Boulder,59,3.0,5.0
-University of Delaware,405,15.0,4.0
-University of Kansas,121,13.0,10.0
-University of Kentucky,200,7.0,
-University of Massachusetts Amherst,121,9.0,3.0
-University of Pennsylvania,13,25.0,8.0
-University of Rhode Island,541,13.0,6.0
-University of Virginia,85,6.0,9.0
-Utah State University,363,10.0,7.0
+Boston University,26,13,4
+California Institute of Technology,31,13,5
+Cornell University,40,13,14
+Duke University,14,11,9
+Emory University,63,3,8
+Florida State University,139,11,3
+Georgia Institute of Technology,222,13,6
+Massachusetts Institute of Technology,6,13,10
+Northern Illinois University,327,7,5
+Oregon State University,187,15,6
+Princeton University,27,4,8
+Rice University,108,20,7
+University of Colorado Boulder,59,3,5
+University of Delaware,405,15,4
+University of Kansas,121,13,10
+University of Massachusetts Amherst,121,9,3
+University of Pennsylvania,13,25,8
+University of Rhode Island,541,13,6
+University of Virginia,85,6,9
+Utah State University,363,10,7
